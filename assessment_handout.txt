@@ -4,6 +4,11 @@ Write in one or more topics for each question using the following topics: Variab
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
 
 Error Messages:
+Traceback (most recent call last):
+  File "assesstment_08_30.py", line 14, in <module>
+    userInput("Enter the year were you born in : ")
+NameError: name 'userInput' is not defined
+
 
 
 
@@ -39,6 +44,10 @@ Error Messages:
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
 
 Error Messages:
+Traceback (most recent call last):
+  File "assesstment_08_30.py", line 71, in <module>
+    nameFunc(fname)
+NameError: name 'fname' is not defined
 
 
 
